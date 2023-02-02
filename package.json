@@ -2,10 +2,10 @@
   "name": "team-project_cocktails",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://DmytroZaburannyi.github.io/team-project_cocktails",
+  "homepage": "https://DmytroZaburannyi.github.io/team-ProjectCocktails",
   "scripts": {
     "start": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /team-project_cocktails/"
+    "build": "parcel build src/*.html --public-url /team-ProjectCocktails/"
   },
   "repository": {
     "type": "git",
